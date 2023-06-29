@@ -1,0 +1,23 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <locale.h>
+
+
+
+int main(void){
+setlocale(LC_ALL, "portuguese");
+
+int num1, num2;
+
+printf("\nDigite um número: ");
+scanf("%i", &num1);
+
+printf("\nDigite outro número: ");
+scanf("%i", &num2);
+
+printf("\nA soma entre os dois números é: %i\n", num1 + num2);
+
+
+
+return 0;
+}
