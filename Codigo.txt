@@ -9,6 +9,8 @@ setlocale(LC_ALL, "portuguese");
 
 int num1, num2;
 
+printf("\nBem vindo!!!\n");
+
 printf("\nDigite um número: ");
 scanf("%i", &num1);
 
