@@ -1,3 +1,4 @@
 Qual é seu nome?
 Qual sua idade?
 Qual seu cpf?
+Qual é seu rg?
